@@ -1,6 +1,9 @@
 {
   "name": "eslint-config-automatio",
   "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/automatio-co/eslint-config-automatio"
+  },
   "license": "MIT",
   "main": "index.js",
   "scripts": {
@@ -32,8 +35,5 @@
     "eslint-plugin-react": "^7.19.0",
     "eslint-plugin-react-hooks": "^2.5.0",
     "prettier": "^1.19.1"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
   }
 }
