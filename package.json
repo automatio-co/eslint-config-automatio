@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-automatio",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "repository": {
     "url": "https://github.com/automatio-co/eslint-config-automatio"
   },
