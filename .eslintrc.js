@@ -52,7 +52,7 @@ module.exports = {
     'import/prefer-default-export': 0,
     'jsx-a11y/no-autofocus': 0,
     'react/jsx-props-no-spreading': 0,
-    
+
     // TODO: This is for action-engine-dashboard only. We must remove this.
     'react/prop-types': 0,
     'react/jsx-filename-extension': [
